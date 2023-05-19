@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "Temperatura.h"
 #include <time.h>
+//Hola
 int main()
 {
     srand(time(NULL));
