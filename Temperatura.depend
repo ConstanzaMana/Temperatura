@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1684508035 source:c:\users\conim\documents\ayed\temperatura\temperatura.c
+	"Temperatura.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1684507645 c:\users\conim\documents\ayed\temperatura\temperatura.h
+	<stdbool.h>
+
+1684507701 source:c:\users\conim\documents\ayed\temperatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Temperatura.h"
+	<time.h>
+
+1682701568 c:\users\conim\documents\ayed\stack\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+
+1682699159 c:\users\conim\documents\ayed\stack\stack.h
+
+1684507066 source:c:\users\conim\documents\ayed\temperatura\temp.stack.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	"Temperatura.h"
+
+1684507645 source:c:\users\conim\documents\ayed\temperatura\temp.lista.c
+	"Temperatura.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1684208534 source:c:\users\conim\documents\ayed\temperatura\temp.tree.c
+	"Temperatura.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684245526 source:c:\users\conim\documents\ayed\temperatura\temp.queue.c
+	"Temperatura.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
