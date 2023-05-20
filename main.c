@@ -25,9 +25,4 @@ int main()
     return 0;
 }
 
-//Probar reading
-/*
-    reading *r=new_reading(0,1);
-    reading *r2=new_reading(1,4);
-    printf("%d",cmp_temp(r,r2));
-    */
+
